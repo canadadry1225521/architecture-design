@@ -98,10 +98,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m-T4DDGCM6idj4ny71WY-20" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_sources.svg;" value="" vertex="1">
-          <mxGeometry height="90" width="90" x="180" y="122" as="geometry" />
+          <mxGeometry height="88" width="88" x="180" y="122" as="geometry" />
         </mxCell>
         <mxCell id="m-T4DDGCM6idj4ny71WY-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Source Data" vertex="1">
           <mxGeometry height="40" width="110" x="170" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="rdLv3wnnR9wHfarjulWM-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Modern_set_of_digital_symbols-2833/multimedia_player_visualization-1114.svg;rounded=0;shadow=0;arcSize=17;imageBorder=none;imageBackground=none;fillStyle=cross-hatch;" value="" vertex="1">
+          <mxGeometry height="97" width="97" x="1310" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
